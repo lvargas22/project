@@ -5,8 +5,7 @@
 <title>page1</title>
 </head>
 <style>
-html{
-#grad {
+html {
   background-image: linear-gradient(to bottom right, red, yellow);
 }
 div{
@@ -14,10 +13,9 @@ font-family: "Times New Roman", Times, serif;
 }
 </style>
 
-<div id="1">
-</div>
-<div id="2">
-</div>
-<div id="3">
+<div>
+<p><a href="">about us</a></p>
+<p><a href="https://www.w3schools.com/">pictures</a></p>
+<p><a href="https://www.w3schools.com/">prices</a></p>
 </div>
 </html>
